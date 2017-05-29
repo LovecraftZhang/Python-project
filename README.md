@@ -1,2 +1,2 @@
 # Python-tools
-Python practise
+Tansfer a image to char in .txt.
