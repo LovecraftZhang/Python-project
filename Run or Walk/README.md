@@ -20,7 +20,7 @@ Additionally, the dataset contains "date", "time" and "username" columns which p
 
 (https://www.kaggle.com/vmalyi/run-or-walk)
 
-[Report: walk-or-run.pdf](doc/Walk-or-Run.pdf)
+[Report: walk-or-run.pdf](doc/Walk_or_Run.pdf)
 
 [Code:]
 
