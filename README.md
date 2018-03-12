@@ -1,2 +1,2 @@
 # Python-tools
-Some tools or machine learning proojects writen by python.
+Some tools and implementations of machine learning models writen by python.
